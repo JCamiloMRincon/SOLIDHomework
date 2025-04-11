@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CamiloMortigo\\Downloads\\SOLIDHomework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10608E79-F289-4F72-9090-162C0CE94635}|SOLIDHomework.Core\\SOLIDHomework.Core.csproj|c:\\users\\camilomortigo\\downloads\\solidhomework\\solidhomework.core\\payment\\paymentmethodfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10608E79-F289-4F72-9090-162C0CE94635}|SOLIDHomework.Core\\SOLIDHomework.Core.csproj|solutionrelative:solidhomework.core\\payment\\paymentmethodfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10608E79-F289-4F72-9090-162C0CE94635}|SOLIDHomework.Core\\SOLIDHomework.Core.csproj|c:\\users\\camilomortigo\\downloads\\solidhomework\\solidhomework.core\\payment\\creditcardpaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10608E79-F289-4F72-9090-162C0CE94635}|SOLIDHomework.Core\\SOLIDHomework.Core.csproj|solutionrelative:solidhomework.core\\payment\\creditcardpaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10608E79-F289-4F72-9090-162C0CE94635}|SOLIDHomework.Core\\SOLIDHomework.Core.csproj|c:\\users\\camilomortigo\\downloads\\solidhomework\\solidhomework.core\\payment\\onlineorderpaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10608E79-F289-4F72-9090-162C0CE94635}|SOLIDHomework.Core\\SOLIDHomework.Core.csproj|solutionrelative:solidhomework.core\\payment\\onlineorderpaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OnlineOrderPaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\CamiloMortigo\\Downloads\\SOLIDHomework\\SOLIDHomework.Core\\Payment\\OnlineOrderPaymentMethod.cs",
+              "RelativeDocumentMoniker": "SOLIDHomework.Core\\Payment\\OnlineOrderPaymentMethod.cs",
+              "ToolTip": "C:\\Users\\CamiloMortigo\\Downloads\\SOLIDHomework\\SOLIDHomework.Core\\Payment\\OnlineOrderPaymentMethod.cs",
+              "RelativeToolTip": "SOLIDHomework.Core\\Payment\\OnlineOrderPaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:22:14.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreditCardPaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\CamiloMortigo\\Downloads\\SOLIDHomework\\SOLIDHomework.Core\\Payment\\CreditCardPaymentMethod.cs",
+              "RelativeDocumentMoniker": "SOLIDHomework.Core\\Payment\\CreditCardPaymentMethod.cs",
+              "ToolTip": "C:\\Users\\CamiloMortigo\\Downloads\\SOLIDHomework\\SOLIDHomework.Core\\Payment\\CreditCardPaymentMethod.cs",
+              "RelativeToolTip": "SOLIDHomework.Core\\Payment\\CreditCardPaymentMethod.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:21:27.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentMethodFactory.cs",
+              "DocumentMoniker": "C:\\Users\\CamiloMortigo\\Downloads\\SOLIDHomework\\SOLIDHomework.Core\\Payment\\PaymentMethodFactory.cs",
+              "RelativeDocumentMoniker": "SOLIDHomework.Core\\Payment\\PaymentMethodFactory.cs",
+              "ToolTip": "C:\\Users\\CamiloMortigo\\Downloads\\SOLIDHomework\\SOLIDHomework.Core\\Payment\\PaymentMethodFactory.cs",
+              "RelativeToolTip": "SOLIDHomework.Core\\Payment\\PaymentMethodFactory.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:18:46.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
